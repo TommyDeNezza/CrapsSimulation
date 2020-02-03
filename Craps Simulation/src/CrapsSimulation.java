@@ -10,6 +10,7 @@ public class CrapsSimulation
 	static int totalRoll;
 	static boolean pointRolling = false;
 	static int point;
+	///I am doing this because he told me to
 	public static void main(String[] args)
 		{
 		introducePlayer();
